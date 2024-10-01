@@ -1,7 +1,26 @@
 div.announcement-slider {
 	display: none !important;
 }
+.utility-btn-wrapper {
+	display: none !important;
+}
+.sidebar-menu {
+	display: none !important;
+}
+.container-fluid .row {
+	display: flex !important;
+	flex-direction: column !important;
+	align-items: center !important;
+}
 
-body {
-	background-color: #f8f8f8;
+#course-tabs-tabpane-2 {
+	display: flex !important;
+	flex-direction: column !important;
+	gap: 20px !important;
+}
+
+#course-tabs-tabpane-2 .navigation,
+#course-tabs-tabpane-2 .section {
+	width: 60% !important;
+	align-self: center !important;
 }
