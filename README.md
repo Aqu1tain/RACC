@@ -1,5 +1,7 @@
 # RACC (RedHat Academy Custom CSS)
 
+[CHROMIUM ONLY] (Brave, Google Chrome, Opera, Firefox etc…)
+
 At first, on (rha.ole.redhat.com) academy courses open `F12` and choose `console` tab.
 
 Then copy / paste the following code in the console:
