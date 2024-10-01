@@ -25,7 +25,7 @@ div.announcement-slider {
 	align-self: center !important;
 }
 
-@media (max-width: 1200px) and (min-width: 768px) {
+@media (max-width: 1200px) {
     #course-tabs-tabpane-2 > .navigation,
 	#course-tabs-tabpane-2 > .section {
 		width: 100% !important;
