@@ -19,8 +19,8 @@ div.announcement-slider {
 	gap: 20px !important;
 }
 
-#course-tabs-tabpane-2 .navigation,
-#course-tabs-tabpane-2 .section {
+#course-tabs-tabpane-2 > .navigation,
+#course-tabs-tabpane-2 > .section {
 	width: 60% !important;
 	align-self: center !important;
 }
