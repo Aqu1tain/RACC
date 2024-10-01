@@ -9,7 +9,7 @@ if (storedCSS) {
     injectCSS(storedCSS);
 } else {
     fetch(
-        "https://raw.githubusercontent.com/Aqu1tain/RACC/4c0d0917e8dd1c8ede89d2750808729406160359/redhat-custom.css"
+        "https://raw.githubusercontent.com/Aqu1tain/RACC/1c3e5ea38c7ec6a8d4ceb143f0929083ddf5dc6d/redhat-custom.css"
     )
         .then((response) => response.text())
         .then((css) => {
